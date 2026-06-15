@@ -1,0 +1,28 @@
+{
+  "s": {
+    "created": "2026-06-15",
+    "history": [
+      {
+        "date": "2026-06-15 10:50",
+        "params": {
+          "age": 18,
+          "weight": 55.0,
+          "height": 178.0,
+          "bmi": 17.36,
+          "bmi_category": "Underweight",
+          "systolic_bp": 124,
+          "blood_sugar": 125,
+          "activity_days": 1,
+          "smoker": false,
+          "family_history": []
+        },
+        "scores": {
+          "Diabetes": 30,
+          "Hypertension": 0,
+          "Cardiovascular Disease": 15,
+          "Obesity": 20
+        }
+      }
+    ]
+  }
+}
